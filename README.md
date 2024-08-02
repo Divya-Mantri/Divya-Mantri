@@ -5,7 +5,7 @@
 - 📫 How to reach me [LinkedIn]:
      ( https://www.linkedin.com/in/its-divya-mantri-here/?trk=opento_sprofile_topcard)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+
 
 <!---
 Divya-Mantri/Divya-Mantri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
