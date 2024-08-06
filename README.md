@@ -6,7 +6,8 @@
      ( https://www.linkedin.com/in/its-divya-mantri-here/?trk=opento_sprofile_topcard)
 - 😄 Pronouns: She/Her
 
-
+<b> Streaks:</b>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Mantri&theme="alt="Divya-Mantri"/></p>
 <!---
 Divya-Mantri/Divya-Mantri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
